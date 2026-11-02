@@ -1,0 +1,14 @@
+C:\Users\Fyrre\Documents\Kodehode\backend-intro\bin\Debug\net10.0\backend-intro.exe
+C:\Users\Fyrre\Documents\Kodehode\backend-intro\bin\Debug\net10.0\backend-intro.deps.json
+C:\Users\Fyrre\Documents\Kodehode\backend-intro\bin\Debug\net10.0\backend-intro.runtimeconfig.json
+C:\Users\Fyrre\Documents\Kodehode\backend-intro\bin\Debug\net10.0\backend-intro.dll
+C:\Users\Fyrre\Documents\Kodehode\backend-intro\bin\Debug\net10.0\backend-intro.pdb
+C:\Users\Fyrre\Documents\Kodehode\backend-intro\obj\Debug\net10.0\backend-intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fyrre\Documents\Kodehode\backend-intro\obj\Debug\net10.0\backend-intro.AssemblyInfoInputs.cache
+C:\Users\Fyrre\Documents\Kodehode\backend-intro\obj\Debug\net10.0\backend-intro.AssemblyInfo.cs
+C:\Users\Fyrre\Documents\Kodehode\backend-intro\obj\Debug\net10.0\backend-intro.csproj.CoreCompileInputs.cache
+C:\Users\Fyrre\Documents\Kodehode\backend-intro\obj\Debug\net10.0\backend-intro.dll
+C:\Users\Fyrre\Documents\Kodehode\backend-intro\obj\Debug\net10.0\refint\backend-intro.dll
+C:\Users\Fyrre\Documents\Kodehode\backend-intro\obj\Debug\net10.0\backend-intro.pdb
+C:\Users\Fyrre\Documents\Kodehode\backend-intro\obj\Debug\net10.0\backend-intro.genruntimeconfig.cache
+C:\Users\Fyrre\Documents\Kodehode\backend-intro\obj\Debug\net10.0\ref\backend-intro.dll
